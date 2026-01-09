@@ -129,5 +129,6 @@ Z = 25A + 30B
 ## 🧑‍💻 Author
 **Prajakta Dilip Godhane**  
 _Data Science Intern @ CodTech_  
+for 4 weeks
 📅 **January 2026**  
 📧 Email: prajaktagodhane7@gmail.com
