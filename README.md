@@ -130,5 +130,5 @@ Z = 25A + 30B
 **Prajakta Dilip Godhane**  
 _Data Science Intern @ CodTech_  
 for 4 weeks
-📅 **January 2026**  
+1 january - 30January 2026**  
 📧 Email: prajaktagodhane7@gmail.com
